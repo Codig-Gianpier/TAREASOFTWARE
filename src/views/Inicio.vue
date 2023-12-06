@@ -1,6 +1,6 @@
 <template>
   <div class="acomodar">
-    sss
+    
   </div>
 </template>
 
