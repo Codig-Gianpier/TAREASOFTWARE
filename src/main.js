@@ -8,7 +8,7 @@ import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 Vue.config.productionTip = false
-// axios.defaults.baseURL = "https://gianpier.bsite.net/api/"
+axios.defaults.baseURL = "https://gianpier.bsite.net/api/"
 // axios.defaults.baseURL = "http://www.aplicaciones.somee.com/api/"
 
 Vue.use(Vueaxios , axios)
